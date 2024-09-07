@@ -1,6 +1,7 @@
 package sept.ex_092025;
 
 public class taskAddition {
+    public static void main(String[] args) {
     int num = 100, sum = 0;
 
         for(int i = 1; i <= num; ++i)
@@ -12,4 +13,4 @@ public class taskAddition {
         System.out.println("Sum = " + sum);
 }
 }
-}
+
