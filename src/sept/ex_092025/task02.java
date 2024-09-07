@@ -1,4 +1,4 @@
 package sept.ex_092025;
 
-public class task01 {
+public class task02 {
 }
